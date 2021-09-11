@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Basic Grid</string>
+    <string name="box1_text">Box 1</string>
+    <string name="box2_text">Box 2</string>
+    <string name="box3_text">Box 3</string>
+    <string name="box4_text">Box 4</string>
+</resources>
