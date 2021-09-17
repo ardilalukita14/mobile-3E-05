@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Book Store</string>
+    <string name="sample_button">Free Sample</string>
+    <string name="buy_button">Buy IDR 89.790</string>
+    <string name="title">Aladdin (2019)</string>
+    <string name="publisher">Walt Disney Pictures</string>
+    <string name="description_book">Belle, a village girl, embarks on a
+                                    journey to save her
+                                    father from a creature that has
+                                    locked him in his dungeon. Eventually,
+                                    she learns that
+                                    the creature is an enchanted
+                                    prince who has been cursed.</string>
+</resources>
