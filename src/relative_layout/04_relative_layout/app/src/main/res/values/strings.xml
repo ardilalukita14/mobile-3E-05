@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Relative Layout</string>
+    <string name="userInfo">Enter your email and password to login</string>
+    <string name="hintEmail">Email</string>
+    <string name="hintPass">Password</string>
+    <string name="loginText">Login</string>
+    <string name="newAccountQuestion">New account?</string>
+    <string name="registerText">Register</string>
+</resources>
