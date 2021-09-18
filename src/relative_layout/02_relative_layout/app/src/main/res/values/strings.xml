@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Relative Layout</string>
+    <string name="successMessage">Welcome back, Lala!</string>
+    <string name="warningMessage">Warning! the caps lock key is on</string>
+    <string name="alertMessage">Your email is not registered!</string>
+</resources>
