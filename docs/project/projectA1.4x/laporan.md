@@ -219,3 +219,6 @@ Langkah Praktikum :
 
 #
 
+## -   [Link Kode Program Layout](../../src/project/project_A1/app/src/main/res/layout/activity_main.xml)
+## -   [Link Kode Program String](../../src/project/project_A1/app/src/main/res/values/strings.xml)
+## -   [Link Kode Program Color](../../src/project/project_A1/app/src/main/res/values/colors.xml)
