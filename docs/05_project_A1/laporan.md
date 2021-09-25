@@ -17,7 +17,7 @@
 
 #
 
-###    Untuk praktikum project A1 Java-BasicUIJavaEdition-forAndroidStudio4.x ini sendiri akan ada 8 tahapan, yang mana masing - masing tahapan akan ada output tersendiri. Adapaun output - output tersebut ialah :
+###    Untuk praktikum project A1 Java-BasicUIJavaEdition-forAndroidStudio4.x ini sendiri akan ada 9 tahapan, yang mana masing - masing tahapan akan ada output tersendiri. Adapaun output - output tersebut ialah :
 #
 
 ### 1. Project Configuration
