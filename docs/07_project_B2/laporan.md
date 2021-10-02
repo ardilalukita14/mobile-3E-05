@@ -157,7 +157,7 @@ Langkah Praktikum :
 
 #
 ### Hasil Bagian 6 <br><br>
-<img src="img/hasilb2_6.png">
+<img src="img/hasilB2_6.png">
 
 #
 
