@@ -122,7 +122,9 @@ Langkah Praktikum :
 
 #
 ### Hasil Bagian 4 <br><br>
-<img src="img/hasilB2_4.png">
+<img src="img/hasilB2_4.png"><br><br>
+<img src="img/hasil2.png" width=300px height=500px><br><br>
+<img src="img/hasil3.png" width=300px height=500px>
 
 #
 
@@ -174,7 +176,8 @@ Langkah Praktikum :
 
 #
 ### Hasil Bagian 7 <br><br>
-<img src="img/hasilB2_7.png">
+<img src="img/hasilB2_7.png"><br><br>
+<img src="img/hasil4.png" width=300px height=500px>
 
 #
 
@@ -193,7 +196,8 @@ Langkah Praktikum :
 
 #
 ### Hasil Bagian 8 <br><br>
-<img src="img/hasilB2_8.png">
+<img src="img/hasilB2_8.png"><br><br>
+<img src="img/hasil5.png" width=300px height=500px>
 
 #
 
@@ -204,5 +208,3 @@ Langkah Praktikum :
 ## -   [Link Kode Program Android Manifest](../../src/project/03_projectB2/app/src/main/AndroidManifest.xml)
 ## -   [Link Kode Program Build Gradle](../../src/project/03_projectB2/app/build.gradle)
 ## -   [Link Kode Program Round Button](../../src/project/03_projectB2/app/src/main/res/drawable/round_btn.xml)
-
-D:\PROJECT\FILE GITHUB CLOUD & MOBILE\mobile-3E-05\src\project\03_projectB2\app\src\main\res\layout
