@@ -31,11 +31,32 @@ Berikut ini adalah bukti bahwa telah berhasil menyelesaikan Praktikum 1 - Starti
 <img src="img/hasil1.png"><br><br>
 
 ### 2. Designing the MainLayout
-Berikut ini adalah bukti bahwa telah berhasil menyelesaikan Praktikum 2 - SDesigning the MainLayout dengan menggunakan android studio. <br>
+Berikut ini adalah bukti bahwa telah berhasil menyelesaikan Praktikum 2 - Designing the MainLayout dengan menggunakan android studio. <br>
 <img src="img/hasil2.png"><br><br>
 
+### 3. Designing the PlayLayout
+Berikut ini adalah bukti bahwa telah berhasil menyelesaikan Praktikum 3 - Designing the PlayLayout dengan menggunakan android studio. <br>
+<img src="img/hasil3.png"><br><br>
 
+### 4. Designing the LogLayout
+Berikut ini adalah bukti bahwa telah berhasil menyelesaikan Praktikum 4 - Designing the LogLayout dengan menggunakan android studio. <br>
+<img src="img/hasil4.png"><br><br>
 
+### 5. Designing the Fragment, RecyclerView, and ListView
+Berikut ini adalah bukti bahwa telah berhasil menyelesaikan Praktikum 5 - Designing the Fragment, RecyclerView, and ListView dengan menggunakan android studio. <br>
+<img src="img/hasil5.png"><br><br>
+
+### 6. Building the MainActivity
+Berikut ini adalah bukti bahwa telah berhasil menyelesaikan Praktikum 6 - Building the MainActivity dengan menggunakan android studio. <br>
+<img src="img/hasil6.png"><br><br>
+
+### 7. Building the PlayActivity
+Berikut ini adalah bukti bahwa telah berhasil menyelesaikan Praktikum 7 - Building the PlayActivity dengan menggunakan android studio. <br>
+<img src="img/hasil7.png"><br><br>
+
+### 8. Building the LogActivity
+Berikut ini adalah bukti bahwa telah berhasil menyelesaikan Praktikum 8 - Building the LogActivity dengan menggunakan android studio. <br>
+<img src="img/hasil8.png"><br><br>
 
 
 
