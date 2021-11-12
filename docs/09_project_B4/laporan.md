@@ -35,5 +35,17 @@ Berikut ini adalah bukti bahwa telah berhasil menyelesaikan Praktikum 4 - Design
 <img src="img/Hasil4.png"><br><br>
 
 ### 5. Design SubInvertActivity layout
-Berikut ini adalah bukti bahwa telah berhasil menyelesaikan Praktikum 5 - Design SubInvertActivity layout dengan menggunakan android studio. <br>
+Berikut ini adalah bukti bahwa telah berhasil menyelesaikan Praktikum 5 - Design SubInvertActivity class dengan menggunakan android studio. <br>
 <img src="img/Hasil5.png"><br><br>
+
+### 6. Develop MainActivity class
+Berikut ini adalah bukti bahwa telah berhasil menyelesaikan Praktikum 6 - Develop MainActivity class dengan menggunakan android studio. <br>
+<img src="img/Hasil6.png"><br><br>
+
+### 7. Develop MediaActivity class
+Berikut ini adalah bukti bahwa telah berhasil menyelesaikan Praktikum 7 - Develop MediaActivity class dengan menggunakan android studio. <br>
+<img src="img/Hasil7.png"><br><br>
+
+### 8. Develop InvertActivity class with SubInvertActivity class
+Berikut ini adalah bukti bahwa telah berhasil menyelesaikan Praktikum 8 - Develop InvertActivity class with SubInvertActivity class dengan menggunakan android studio. <br>
+<img src="img/Hasil8.png"><br><br>
