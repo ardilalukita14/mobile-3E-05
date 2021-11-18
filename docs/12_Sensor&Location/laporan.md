@@ -180,3 +180,17 @@ The SensorEventListener interface includes two callback methods that enable your
 
 1. 
 
+#
+
+3.2: Working with sensor-based orientation
+
+#
+
+Task 1. Build the TiltSpot app
+
+1.1 Download and explore the starter app
+
+1. Download the TiltSpot_start app and open it in Android Studio.
+2. Open res/layout/activity_main.xml.
+3. Open MainActivity. 
+
