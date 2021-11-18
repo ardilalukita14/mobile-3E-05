@@ -34,4 +34,13 @@
 7. Struktur packages dan class seharusnya seperti pada gambar berikut.<br>
 <img src="img/langkah8.png"><br><br>
 
+8. Dikarenakan pada praktikum kali ini belum menggunakan DataBinding, maka kita coba gunakan Console Logging with Log.d and Logcat. Berikut untuk kode program yang harus ditambahkan di dalam file MainActivity.<br>
+<img src="img/langkah9.png"><br><br>
+
+9. Kemudian kita coba tambahkan menu Logcat untuk memeriksa hasil running Log.<br>
+<img src="img/langkah10.png"><br><br>
+
+10. Baru kemudian kita coba jalankan, maka hasilnya seperti berikut.<br>
+<img src="img/langkah11.png"><br><br>
+
 
