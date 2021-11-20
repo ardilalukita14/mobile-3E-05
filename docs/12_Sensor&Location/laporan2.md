@@ -60,9 +60,9 @@ To request location permission at runtime:
 3. In the getLocation() method, check for the ACCESS_FINE_LOCATION permission.
 
     If the permission has not been granted, request it.
-    If the permission has been granted, display a message in the logs. (The code below shows a TAG variable, which you declare later, in Task 3.1.)<br>
-<img src="img2/langkah7.png"><br><br>
-For information on runtime permissions, see Requesting Permissions at Run Time.<br>
+    If the permission has been granted, display a message in the logs. (The code below shows a TAG variable, which you declare later, in Task 3.1.)
+
+    For information on runtime permissions, see Requesting Permissions at Run Time.<br>
 <img src="img2/langkah8.png"><br><br>
 
 4. In your MainActivity class, define an integer constant REQUEST_LOCATION_PERMISSION. This constant is used to identify the permission request when the results come back in the onRequestPemissionsResult() method. It can be any integer greater than 0.<br>
