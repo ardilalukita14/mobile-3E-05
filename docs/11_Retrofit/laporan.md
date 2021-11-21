@@ -19,15 +19,15 @@
 <img src="img/langkah3.png"><br><br>
 
 4. Buatlah package bernama services lalu buat class interface didalamnya. <br>
-<img src="img/langkah5.png"><br><br>
+<img src="img/langkah4.png"><br><br>
 
 5. Buatlah package bernama models lalu buat class POJO didalamnya. <br>
-<img src="img/langkah6.png"><br><br>
+<img src="img/langkah6.png"><br>
 <img src="img/langkah6a.png">
 <img src="img/langkah6b.png"><br><br>
 
 6. Pada class MainActivity, buat request ke REST API.<br>
-<img src="img/langkah7.png"><br><br>
+<img src="img/langkah7.png"><br>
 <img src="img/langkah7a.png">
 <img src="img/langkah7b.png"><br><br>
 
