@@ -58,5 +58,29 @@ Berikut ini adalah bukti bahwa telah berhasil menyelesaikan Praktikum 7 - Buildi
 Berikut ini adalah bukti bahwa telah berhasil menyelesaikan Praktikum 8 - Building the LogActivity dengan menggunakan android studio. <br>
 <img src="img/hasil8.png"><br><br>
 
+#
+
+## -   [Link Kode Program Layout1](../../src/project/03_projectB3/app/src/main/res/layout/activity_main.xml)
+## -   [Link Kode Program Layout2](../../src/project/03_projectB3/app/src/main/res/layout/activity_log.xml)
+## -   [Link Kode Program Layout3](../../src/project/03_projectB3/app/src/main/res/layout/activity_play.xml)
+## -   [Link Kode Program Layout4](../../src/project/03_projectB3/app/src/main/res/layout/activity_play.xml)
+## -   [Link Kode Program Layout5](../../src/project/03_projectB3/app/src/main/res/layout/fragment_footer.xml)
+## -   [Link Kode Program Layout6](../../src/project/03_projectB3/app/src/main/res/layout/layout_dialog.xml)
+## -   [Link Kode Program Layout7](../../src/project/03_projectB3/app/src/main/res/layout/layout_list.xml)
+## -   [Link Kode Program Layout8](../../src/project/03_projectB3/app/src/main/res/layout/layout_log.xml)
+
+
+## -   [Link Kode Program String](../../src/project/03_projectB3/app/src/main/res/values/strings.xml)
+## -   [Link Kode Program Color](../../src/project/03_projectB3/app/src/main/res/values/colors.xml)
+
+## -   [Link Kode Program MyActivity1](../../src/project/03_projectB3/app/src/main/java/org/aplas/soccermatch/MainActivity.java)
+## -   [Link Kode Program MyActivity2](../../src/project/03_projectB3/app/src/main/java/org/aplas/soccermatch/FooterFragment.java)
+## -   [Link Kode Program MyActivity3](../../src/project/03_projectB3/app/src/main/java/org/aplas/soccermatch/LogActivity.java)
+## -   [Link Kode Program MyActivity4](../../src/project/03_projectB3/app/src/main/java/org/aplas/soccermatch/LogItem.java)
+## -   [Link Kode Program MyActivity5](../../src/project/03_projectB3/app/src/main/java/org/aplas/soccermatch/PlayActivity.java)
+
+
+## -   [Link Kode Program Android Manifest](../../src/project/03_projectB3/app/src/main/AndroidManifest.xml)
+## -   [Link Kode Program Build Gradle](../../src/project/03_projectB3/app/build.gradle)
 
 

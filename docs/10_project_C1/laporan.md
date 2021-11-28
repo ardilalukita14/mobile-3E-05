@@ -35,3 +35,35 @@ Berikut ini adalah bukti bahwa telah berhasil menyelesaikan Praktikum 3 - Design
 ### 4. Designing the UI of ShowDataActivity
 Berikut ini adalah bukti bahwa telah berhasil menyelesaikan Praktikum 4 - Designing the UI of ShowDataActivity dengan menggunakan android studio. <br>
 <img src="img/langkah4.png"><br><br>
+
+### 4. Designing the UI of ShowDataActivity
+Berikut ini adalah bukti bahwa telah berhasil menyelesaikan Praktikum 4 - Designing the UI of ShowDataActivity dengan menggunakan android studio. <br>
+<img src="img/langkah4.png"><br><br>
+
+### 4. Designing the UI of ShowDataActivity
+Berikut ini adalah bukti bahwa telah berhasil menyelesaikan Praktikum 4 - Designing the UI of ShowDataActivity dengan menggunakan android studio. <br>
+<img src="img/langkah4.png"><br><br>
+
+### 5. Creating SharedPreferences for user data and book data.
+Berikut ini adalah bukti bahwa telah berhasil menyelesaikan Praktikum 5 - Creating SharedPreferences for user data and book data. dengan menggunakan android studio. <br>
+<img src="img/langkah5.png"><br><br>
+
+### 6.Developing input data and show data with data binding
+Berikut ini adalah bukti bahwa telah berhasil menyelesaikan Praktikum 6 - Developing input data and show data with data binding dengan menggunakan android studio. <br>
+<img src="img/langkah6.png"><br><br>
+
+### 7. Creating data binding models for MVVM architecture.
+Berikut ini adalah bukti bahwa telah berhasil menyelesaikan Praktikum 7 - Creating data binding models for MVVM architecture dengan menggunakan android studio. <br>
+<img src="img/langkah7.png"><br><br>
+
+### 8. Developing the source code for MainActivity
+Berikut ini adalah bukti bahwa telah berhasil menyelesaikan Praktikum 8 - Developing the source code for MainActivity dengan menggunakan android studio. <br>
+<img src="img/langkah8.png"><br><br>
+
+### 9. Developing the source code for InputDataActivity
+Berikut ini adalah bukti bahwa telah berhasil menyelesaikan Praktikum 9 - Developing the source code for InputDataActivity dengan menggunakan android studio. <br>
+<img src="img/langkah9.png"><br><br>
+
+### 10. Developing the source code for ShowDataActivity
+Berikut ini adalah bukti bahwa telah berhasil menyelesaikan Praktikum 10 - Developing the source code for ShowDataActivity dengan menggunakan android studio. <br>
+<img src="img/langkah10.png"><br><br>

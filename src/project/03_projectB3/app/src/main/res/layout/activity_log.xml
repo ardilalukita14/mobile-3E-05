@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/logLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LogActivity"
+    android:orientation="vertical">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/card1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardBackgroundColor="@color/PaleBlue">
+
+        <TextView
+            android:id="@+id/textCard1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/home_team_3"
+            android:textStyle="bold|italic"
+            android:textColor="@color/black"
+            android:textSize="16pt"
+            android:layout_gravity="center"
+            android:gravity="center"/>
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/card2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardBackgroundColor="@color/Rose">
+
+        <TextView
+            android:id="@+id/textCard2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/away_team_1"
+            android:textStyle="bold|italic"
+            android:textColor="@color/black"
+            android:textSize="16pt"
+            android:layout_gravity="center"
+            android:gravity="center"/>
+    </androidx.cardview.widget.CardView>
+
+    <TextView
+        android:id="@+id/matchResultTxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold|italic"
+        android:gravity="center"/>
+
+    <TextView
+        android:id="@+id/matchScoreTxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold|italic"
+        android:gravity="center"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/logRcView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scrollbars="vertical"
+        android:textAlignment="center"
+        style="@style/CardView.Light"
+        android:orientation="horizontal"/>
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="10dp"
+        app:cardCornerRadius="7dp">
+    <Button
+        android:id="@+id/restartBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/new_match"
+        android:textColor="@color/white"
+        android:textSize="12pt"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:backgroundTint="@color/Coral"
+        android:drawableLeft="@drawable/icon_reload1"
+        />
+    </androidx.cardview.widget.CardView>
+</LinearLayout>
