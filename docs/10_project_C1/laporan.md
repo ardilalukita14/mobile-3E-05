@@ -67,3 +67,24 @@ Berikut ini adalah bukti bahwa telah berhasil menyelesaikan Praktikum 9 - Develo
 ### 10. Developing the source code for ShowDataActivity
 Berikut ini adalah bukti bahwa telah berhasil menyelesaikan Praktikum 10 - Developing the source code for ShowDataActivity dengan menggunakan android studio. <br>
 <img src="img/langkah10.png"><br><br>
+
+#
+
+## -   [Link Kode Program Layout1](../../src/project/06_projectC1/app/src/main/res/layout/activity_main.xml)
+## -   [Link Kode Program Layout2](../../src/project/06_projectC1/app/src/main/res/layout/activity_input_data.xml)
+## -   [Link Kode Program Layout3](../../src/project/06_projectC1/app/src/main/res/layout/activity_show_data.xml)
+
+## -   [Link Kode Program String](../../src/project/06_projectC1/app/src/main/res/values/strings.xml)
+## -   [Link Kode Program Color](../../src/project/06_projectC1/app/src/main/res/values/colors.xml)
+
+## -   [Link Kode Program MyActivity1](../../src/project/06_projectC1/app/src/main/java/org/aplas/mylibrary/InputDataActivity.java)
+## -   [Link Kode Program MyActivity2](../../src/project/06_projectC1/app/src/main/java/org/aplas/mylibrary/MainActivity.java)
+## -   [Link Kode Program MyActivity3](../../src/project/06_projectc1/app/src/main/java/org/aplas/mylibrary/ShowDataActivity.java)
+## -   [Link Kode Program MyActivity4](../../src/project/06_projectc1/app/src/main/java/org/aplas/mylibrary/models/BookData.java)
+## -   [Link Kode Program MyActivity5](../../src/project/06_projectc1/app/src/main/java/org/aplas/mylibrary/models/UserData.java)
+## -   [Link Kode Program MyActivity6](../../src/project/06_projectc1/app/src/main/java/org/aplas/mylibrary/viewmodels/Book.java)
+## -   [Link Kode Program MyActivity7](../../src/project/06_projectc1/app/src/main/java/org/aplas/mylibrary/viewmodels/BookList.java)
+## -   [Link Kode Program MyActivity8](../../src/project/06_projectc1/app/src/main/java/org/aplas/mylibrary/viewmodels/User.java)
+
+## -   [Link Kode Program Android Manifest](../../src/project/06_projectC1/app/src/main/AndroidManifest.xml)
+## -   [Link Kode Program Build Gradle](../../src/project/06_projectC1/app/build.gradle)
