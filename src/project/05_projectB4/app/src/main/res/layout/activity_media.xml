@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mediaLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MediaActivity">
+
+    <TextView
+        android:id="@+id/mediaTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""/>
+
+    <ViewFlipper
+        android:id="@+id/mediaFlipper"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <LinearLayout
+        android:id="@+id/subMain"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_alignParentBottom="true">
+
+        <Button
+            android:id="@+id/prevButton"
+            android:layout_width="110dp"
+            android:layout_height="60dp"
+            android:background="@color/PaleBlue"
+            android:layout_marginLeft="15dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="PREV"
+            android:textSize="8pt"/>
+
+        <Button
+            android:id="@+id/nextButton"
+            android:layout_width="110dp"
+            android:layout_height="60dp"
+            android:background="@color/PaleBlue"
+            android:layout_marginLeft="163dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="NEXT"
+            android:textSize="8pt"/>
+
+    </LinearLayout>
+
+    <fragment
+        android:id="@+id/youtubeFrame"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:name="com.google.android.youtube.player.YouTubePlayerFragment">
+    </fragment>
+
+    <LinearLayout
+        android:id="@+id/subMain2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_alignParentBottom="true">
+
+        <ImageButton
+            android:id="@+id/finishButton"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:background="@null"
+            android:scaleType="fitCenter"
+            android:src="@drawable/icon_prev"
+            android:gravity="center"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="5dp"/>
+
+        <ImageButton
+            android:id="@+id/invertButton"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:background="@null"
+            android:scaleType="fitCenter"
+            android:src="@drawable/icon_next"
+            android:gravity="center"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="200dp"/>
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -49,3 +49,30 @@ Berikut ini adalah bukti bahwa telah berhasil menyelesaikan Praktikum 7 - Develo
 ### 8. Develop InvertActivity class with SubInvertActivity class
 Berikut ini adalah bukti bahwa telah berhasil menyelesaikan Praktikum 8 - Develop InvertActivity class with SubInvertActivity class dengan menggunakan android studio. <br>
 <img src="img/Hasil8.png"><br><br>
+
+#
+
+## -   [Link Kode Program Layout1](../../src/project/05_projectB4/app/src/main/res/layout/activity_invert.xml)
+## -   [Link Kode Program Layout2](../../src/project/05_projectB4/app/src/main/res/layout/activity_main.xml)
+## -   [Link Kode Program Layout3](../../src/project/05_projectB4/app/src/main/res/layout/activity_media.xml)
+## -   [Link Kode Program Layout4](../../src/project/05_projectB4/app/src/main/res/layout/activity_sub_invert.xml)
+## -   [Link Kode Program Layout5](../../src/project/05_projectB4/app/src/main/res/layout/item_animal.xml)
+## -   [Link Kode Program Layout6](../../src/project/05_projectB4/app/src/main/res/layout/layout_data.xml)
+## -   [Link Kode Program Layout7](../../src/project/05_projectB4/app/src/main/res/layout/layout_media.xml)
+
+
+## -   [Link Kode Program String](../../src/project/05_projectB4/app/src/main/res/values/strings.xml)
+## -   [Link Kode Program Color](../../src/project/05_projectB4/app/src/main/res/values/colors.xml)
+
+## -   [Link Kode Program MyActivity1](../../src/project/05_projectB4/app/src/main/java/org/aplas/animaltour/DataAdapter.java)
+## -   [Link Kode Program MyActivity2](../../src/project/05_projectB4/app/src/main/java/org/aplas/animaltour/DataItem.java)
+## -   [Link Kode Program MyActivity3](../../src/project/05_projectB4/app/src/main/java/org/aplas/animaltour/InvertActivity.java)
+## -   [Link Kode Program MyActivity4](../../src/project/05_projectB4/app/src/main/java/org/aplas/animaltour/ItemMoveCallback.java)
+## -   [Link Kode Program MyActivity5](../../src/project/05_projectB4/app/src/main/java/org/aplas/animaltour/MainActivity.java)
+## -   [Link Kode Program MyActivity6](../../src/project/05_projectB4/app/src/main/java/org/aplas/animaltour/DataAdapter.java)
+## -   [Link Kode Program MyActivity7](../../src/project/05_projectB4/app/src/main/java/org/aplas/animaltour/MediaActivity.java)
+## -   [Link Kode Program MyActivity8](../../src/project/05_projectB4/app/src/main/java/org/aplas/animaltour/SubInvertActivity.java)
+
+
+## -   [Link Kode Program Android Manifest](../../src/project/05_projectB4/app/src/main/AndroidManifest.xml)
+## -   [Link Kode Program Build Gradle](../../src/project/05_projectB4/app/build.gradle)
