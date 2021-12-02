@@ -43,4 +43,18 @@
 10. Baru kemudian kita coba jalankan, maka hasilnya seperti berikut.<br>
 <img src="img/langkah11.png"><br><br>
 
+11. Jika kita ingin menggunakan data binding, maka kita bisa menambahkan ke dalam build gradle code berikut.<br>
+<img src="img/langkah18.png"><br><br>
+
+12. Kita tambahkan toString() ke dalam class Repo.<br>
+<img src="img/langkah17.png"><br><br>
+
+13. Untuk MainActivity kita lakukan beberapa perubahan dari sebelumnya, berikut untuk tampilannya.<br>
+<img src="img/langkah15.png"><br><br>
+
+14. Kemudian untuk activity_main kita tambahkan kode program berikut.<br>
+<img src="img/langkah13.png"><br><br>
+
+15. Maka ketika di run, tampilan layar device akan seperti berikut.<br>
+<img src="img/langkah12.png"><br><br>
 
