@@ -39,5 +39,15 @@ a. Untuk menyelesaikan tantangan ini, pertama kita coba tambahkan beberapa kode 
     c. Sekarang kita coba running, maka saat kita klik button "GET DATA REPO" untuk mencari informasi terkait username yang telah kita inputkan di dalam textbox, secara otomatis sistem akan menampilkan loading atau progress bar sebelum menampilkan data / informasi yang diperoleh, ini menunjukkan adanya request ke REST API.<br><br>
 <img src="img/langkah28.png"><br> 
 
-3. Berikan  cara  memberitahukan  kepada  user  jika  gagal  request  ke  REST  API  selain menggunakan Toast! 
+3. Berikan  cara  memberitahukan  kepada  user  jika  gagal  request  ke  REST  API  selain menggunakan Toast!<br>
+a. Pertama kita tambahkan beberapa kode berikut ke dalam MainActivity.<br><br>
+<img src="img/langkah33.png"><br><br>
+
+ b. Kedua, kita tambahkan textview di dalam layout activity_main yang nantinya akan menampilkan alert ketika aplikasi gagal me-load data.<br><br>
+<img src="img/langkah34.png"><br>
+
+ c. Sekarang kita coba masukkan username GitHub yang tidak terdeteksi, maka aplikasi secara otomatis akan menampilkan alert seperti berikut ini.<br><br>
+<img src="img/langkah35.png"><br> 
+<img src="img/langkah36.png"><br> 
+
  
