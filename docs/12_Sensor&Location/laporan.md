@@ -207,10 +207,10 @@ As with the light sensor, the sensor data for the proximity sensor can vary from
 
 6. Move the sliders for the light and proximity sensors and observe that the values in the app change as well. 
 
-<b> Masih di titik 0.<br>
+<b> Masih di titik 0.</b><br>
 <img src="img/langkah76.png"><br> 
 
-<b> Sesudah di rubah nilainya.<br>
+<b> Sesudah di rubah nilainya.</b><br>
 <img src="img/langkah77.png"><br> 
 
         Semakin di geser ke kanan, nilai light sensor dan proximity sensor semakin bertambah.
@@ -431,3 +431,9 @@ Task 3. Handle activity rotation
 8. Build and run the app again. The colors of the spots should now change on the correct edges of the device, regardless of how the device is rotated. <br>
 <img src="img/langkah74.png"><br>
 <img src="img/langkah75.png"><br>
+
+## -   [Link Kode Program Java](../../src/project/07_sensorSurvey/app/src/main/java/org/aplas/sensorsurvey/MainActivity.java)
+## -   [Link Kode Program Layout](../../src/project/07_sensorSurvey/app/src/main/res/layout/activity_main.xml)
+## -   [Link Kode Program String](../../src/project/07_sensorSurvey/app/src/main/res/values/strings.xml)
+## -   [Link Kode Program Color](../../src/project/07_sensorSurvey/app/src/main/res/values/colors.xml)
+## -   [Link Kode Build Gradle](../../src/project/07_sensorSurvey/app/build.gradle)

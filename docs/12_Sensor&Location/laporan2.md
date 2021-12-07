@@ -405,8 +405,12 @@ In this step, you use the saved instance state to make mTrackingLocation persist
 
    - Sesudah device di rotasi / putar.<br><br><img src="img2/langkah82.png"><br>
 
-   #
-   #
+   
+## -   [Link Kode Program Java](../../src/project/08_sensorListener/app/src/main/java/org/aplas/sensorlistener/MainActivity.java)
+## -   [Link Kode Program Layout](../../src/project/08_sensorListener/app/src/main/res/layout/activity_main.xml)
+## -   [Link Kode Program String](../../src/project/08_sensorListener/app/src/main/res/values/strings.xml)
+## -   [Link Kode Program Color](../../src/project/08_sensorListener/app/src/main/res/values/colors.xml)
+## -   [Link Kode Build Gradle](../../src/project/08_sensorListener/app/build.gradle)
 
 
 

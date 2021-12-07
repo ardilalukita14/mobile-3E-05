@@ -1,4 +1,4 @@
-# Bab 10 Retrofit 
+# Bab 09 Retrofit 
 
 ## Tujuan Pembelajaran
 
@@ -35,12 +35,12 @@
 <img src="img/langkah8.png"><br><br>
 
 8. Dikarenakan pada praktikum kali ini belum menggunakan DataBinding, maka kita coba gunakan Console Logging with Log.d and Logcat. Berikut untuk kode program yang harus ditambahkan di dalam file MainActivity.<br>
-<img src="img/langkah9.png"><br><br>
+<img src="img/langkah09.png"><br><br>
 
-9. Kemudian kita coba tambahkan menu Logcat untuk memeriksa hasil running Log.<br>
-<img src="img/langkah10.png"><br><br>
+09. Kemudian kita coba tambahkan menu Logcat untuk memeriksa hasil running Log.<br>
+<img src="img/langkah09.png"><br><br>
 
-10. Baru kemudian kita coba jalankan, maka hasilnya seperti berikut.<br>
+09. Baru kemudian kita coba jalankan, maka hasilnya seperti berikut.<br>
 <img src="img/langkah11.png"><br><br>
 
 11. Jika kita ingin menggunakan data binding, maka kita bisa menambahkan ke dalam build gradle code berikut.<br>
@@ -57,4 +57,15 @@
 
 15. Maka ketika di run, tampilan layar device akan seperti berikut.<br>
 <img src="img/langkah12.png"><br><br>
+
+## -   [Link Kode Program Main](../../src/project/09_retrofit/app/src/main/java/org/aplas/latihanretrofit/MainActivity.java)
+## -   [Link Kode Program Repo](../../src/project/09_retrofit/app/src/main/java/org/aplas/latihanretrofit/models/Repo.java)
+## -   [Link Kode Program GitHubService](../../src/project/09_retrofit/app/src/main/java/org/aplas/latihanretrofit/services/GitHubService.java)
+## -   [Link Kode Program Layout](../../src/project/09_retrofit/app/src/main/res/layout/activity_main.xml)
+## -   [Link Kode Program String](../../src/project/09_retrofit/app/src/main/res/values/strings.xml)
+## -   [Link Kode Program Color](../../src/project/09_retrofit/app/src/main/res/values/colors.xml)
+## -   [Link Kode Build Gradle](../../src/project/09_retrofit/app/build.gradle)
+
+
+
 

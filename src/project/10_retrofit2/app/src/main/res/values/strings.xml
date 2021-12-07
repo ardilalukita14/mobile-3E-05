@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LatihanRetrofitNew</string>
+    <string name="aplikasi_latihan_retrofit">Aplikasi Latihan Retrofit</string>
+    <string name="input_username">Input Username</string>
+    <string name="get_data_repo">Get Data Repo</string>
+    <string name="alertTitle">Maaf, proses request API GITHUB gagal dilakukan!</string>
+</resources>
